@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:47:26 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:47:27 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-3 0
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:47:31 +0800] "GET /travel/checkCode HTTP/1.1" 200 274 http-bio-80-exec-5 359
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:47:34 +0800] "GET /travel/register.html?action=register&username=&password=&email=&name=&telephone=&sex=%E7%94%B7&birthday=&check= HTTP/1.1" 200 4990 http-bio-80-exec-7 4
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:47:34 +0800] "GET /travel/checkCode HTTP/1.1" 200 271 http-bio-80-exec-8 4
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:48:05 +0800] "GET /travel/register.html?action=register&username=&password=&email=&name=&telephone=&sex=%E7%94%B7&birthday=&check= HTTP/1.1" 200 4991 http-bio-80-exec-9 4
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:48:05 +0800] "GET /travel/checkCode HTTP/1.1" 200 268 http-bio-80-exec-10 4
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:50:37 +0800] "GET /travel/register.html?action=register&username=&password=&email=&name=&telephone=&sex=%E7%94%B7&birthday=&check= HTTP/1.1" 200 5074 http-bio-80-exec-1 21
+0:0:0:0:0:0:0:1 - - [09/Jul/2023:11:50:37 +0800] "GET /travel/checkCode HTTP/1.1" 200 243 http-bio-80-exec-3 206

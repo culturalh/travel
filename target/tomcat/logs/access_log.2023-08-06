@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [06/Aug/2023:20:18:44 +0800] "GET /travel HTTP/1.1" 302 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [06/Aug/2023:20:18:45 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-3 0
+0:0:0:0:0:0:0:1 - - [06/Aug/2023:20:18:51 +0800] "GET /travel/user/add HTTP/1.1" 200 - http-bio-80-exec-5 7
+0:0:0:0:0:0:0:1 - - [06/Aug/2023:20:21:54 +0800] "GET /travel/user/add HTTP/1.1" 200 - http-bio-80-exec-1 25
+0:0:0:0:0:0:0:1 - - [06/Aug/2023:20:30:23 +0800] "GET /travel/user/add HTTP/1.1" 200 - http-bio-80-exec-1 15
